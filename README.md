@@ -1,4 +1,4 @@
-# Ecommerce App Web Application Documentation
+# Ecommerce App
 
 This repository contains the source code for Ecommerce App, an online store that specializes in selling tech products.
 
